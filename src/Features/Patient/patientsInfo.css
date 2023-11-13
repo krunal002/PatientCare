@@ -1,0 +1,36 @@
+.patient-container {
+  max-width: 300px;
+  margin: auto;
+}
+
+.patient-wrapper {
+  margin: 8px;
+  cursor: pointer;
+}
+
+/* patient details */
+.patient-details-container {
+  /* text-align: left; */
+  padding: 0 18px;
+  max-width: 300px;
+  margin: 16px auto;
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  background-color: whitesmoke;
+}
+.info-wrapper {
+  display: flex;
+  /* justify-content: left; */
+  align-items: center;
+  gap: 8px;
+}
+.assignedWard-container {
+  padding: 4px;
+  /* border-top: 1px solid lightgray; */
+}
+
+/* patient form */
+.patient-form-container {
+  max-width: 230px;
+  margin: auto;
+}

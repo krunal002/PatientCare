@@ -1,0 +1,27 @@
+.ward-container {
+  max-width: 300px;
+  margin: auto;
+}
+.ward-wrapper {
+  margin: 8px;
+  cursor: pointer;
+}
+
+/* Ward details */
+.ward-details-container {
+  padding: 0 18px;
+  max-width: 300px;
+  margin: 16px auto;
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  background-color: whitesmoke;
+}
+.ward-patient-container {
+  padding: 4px;
+}
+
+/* ward form */
+.ward-form-container {
+  max-width: 230px;
+  margin: auto;
+}
